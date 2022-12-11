@@ -1,1 +1,5 @@
-1844
+Wyjście ma lecieć do pliku:
+W kodzie linijka: "Odpowiedzi znajdują sie w pliku"
+ROL(k)
+Prędkość średnia
+Ciążowy specjalista
