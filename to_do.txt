@@ -1,2 +1,0 @@
-Wyjście ma lecieć do pliku:
-W kodzie linijka: "Odpowiedzi znajdują sie w pliku"

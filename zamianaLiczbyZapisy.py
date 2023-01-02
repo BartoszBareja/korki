@@ -13,7 +13,7 @@ def zamiana(liczba):
         curr2 *= 10
         count += 1
 
-    curr2 = curr2 // 10;
+    curr2 = curr2 // 10
     sub = .1 * curr
     while curr > liczba:
         curr -= sub
